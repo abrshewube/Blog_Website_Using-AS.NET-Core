@@ -15,7 +15,7 @@ Beautiful blog website made on .Net Core MVC and SQL Server.
 Clone the project
 
 ```bash
-  git clone https://github.com/saileshrijal/FineBlog
+  git clone https://github.com/abrshewube/FineBlog
 
 Go to the project directory
 
@@ -69,6 +69,4 @@ Build project is located on bin directory
 
 ![11](https://user-images.githubusercontent.com/88402075/236395614-cc65a5b7-ef07-4b4b-9224-92b1fb39e417.png)
 
-## Demo
 
-Website Link Coming Soon
